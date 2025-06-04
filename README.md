@@ -1,14 +1,4 @@
-# 📘 README – TP de Programmation ISE1 (ENEAM)
-
-## 🎓 Contexte
-Ce TP a été réalisé dans le cadre des Travaux Pratiques de Programmation / Algorithmique de la première année de la section ISE à l’ENEAM (année 2022/2023).  
-L’objectif est d’appliquer les notions de programmation vues en cours à travers une série d'exercices algorithmiques, en utilisant le langage **Python**.
-
-**Enseignant :** KANFON Y. Credo Auguste  
-**Durée :** 2 semaines  
-**Langage utilisé :** Python  
-
----
+# 📘 Algorithmique et Programmation avec Python
 
 ## 🧩 Contenu des exercices
 
@@ -56,7 +46,7 @@ L’objectif est d’appliquer les notions de programmation vues en cours à tra
 ## 📁 Fichiers inclus
 
 - `resolutions.ipynb` : fichier Jupyter Notebook contenant la résolution complète des exercices
-- `TP ENEAM ISE1 Programmation.pdf` : énoncé officiel du TP fourni par l’enseignant
+- `TP ENEAM ISE1 Programmation.pdf` : énoncé officiel du TP
 
 ---
 
@@ -79,8 +69,6 @@ L’objectif est d’appliquer les notions de programmation vues en cours à tra
 
 ## 📌 Auteur
 
-- **Nom :** [À compléter]
-- **Classe :** ISE1
-- **Établissement :** ENEAM
-- **Contact :** [À compléter]
+- **Nom :** Sèjro Toussaint BOCO
+- **Contact :** sejroboco9@gmail.com
 
